@@ -29,6 +29,7 @@ public:
 		top = newNode;
 		cout << "Push value: " << value << endl;
 		return value;
+
 	}
 
 	void pop() {
@@ -37,4 +38,5 @@ public:
 		}
 		cout << "Popped value: " << top->data << endl;
 		top = top->next;
+
 	}
