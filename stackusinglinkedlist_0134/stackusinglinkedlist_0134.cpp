@@ -9,3 +9,4 @@ public:
 
 	Node() {
 		next = NULL;
+
