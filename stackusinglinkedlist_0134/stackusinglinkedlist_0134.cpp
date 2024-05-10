@@ -57,3 +57,4 @@ public:
 		return top == NULL;
 	}
 };
+
